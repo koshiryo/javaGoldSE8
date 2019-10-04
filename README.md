@@ -1,7 +1,5 @@
 # javaGoldSE8
 
-------------
-
 ## Background
 I passed the Oracle Java SE 8 Programmer II（Gold）exam with a 93%. I used two books in Japanese and for a deeper understanding I also wacthed some online tech videos in Chinese. In short, this repository is a practice for this exam.
 
